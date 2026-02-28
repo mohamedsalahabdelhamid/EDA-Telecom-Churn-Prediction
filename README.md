@@ -35,6 +35,6 @@ Open the Jupyter Notebook (.ipynb file) and run the cells sequentially.
 📬 Contact
 If you have any questions or want to discuss Data Analytics and Business Intelligence, feel free to connect with me!
 
-LinkedIn: Mohamed Salah Abdelhamid
+LinkedIn: https://www.linkedin.com/in/mohamedsalah-abdelhamid/
 
-GitHub: mohamedsalahabdelhamid
+GitHub: https://github.com/mohamedsalahabdelhamid
